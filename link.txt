@@ -1,0 +1,3 @@
+parent fam teachable machinee
+
+https://teachablemachine.withgoogle.com/models/-zIkv_UAH/
